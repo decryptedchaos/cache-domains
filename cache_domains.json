@@ -111,6 +111,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "youtube",
+			"description": "CDN for Youtube video content",
+			"domain_files": ["youtube.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
