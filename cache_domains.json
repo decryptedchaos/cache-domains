@@ -11,6 +11,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "debian",
+			"description": "CDN for Debian APT",
+			"domain_files": ["debian.txt"]
+		},
+		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
